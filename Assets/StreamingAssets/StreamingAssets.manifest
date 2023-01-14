@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 997938141
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gui/prefabs.ab
+      Dependencies: {}

@@ -1,0 +1,37 @@
+{
+  "1": {
+    "ID": 1,
+    "Name": "红色",
+    "Value": "#FF0000FF"
+  },
+  "2": {
+    "ID": 2,
+    "Name": "橙色",
+    "Value": "#FFB400FF"
+  },
+  "3": {
+    "ID": 3,
+    "Name": "黄色",
+    "Value": "#FFFF00FF"
+  },
+  "4": {
+    "ID": 4,
+    "Name": "绿色",
+    "Value": "#00FF00FF"
+  },
+  "5": {
+    "ID": 5,
+    "Name": "青色",
+    "Value": "#00FFFFFF"
+  },
+  "6": {
+    "ID": 6,
+    "Name": "蓝色",
+    "Value": "#0000FFFF"
+  },
+  "7": {
+    "ID": 7,
+    "Name": "紫色",
+    "Value": "#FF00FFFF"
+  }
+}
